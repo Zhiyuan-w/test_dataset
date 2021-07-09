@@ -1,0 +1,2 @@
+label_index,image_ssd_mean,image_ssd_median,image_ssd_std,label_binary_dice_mean,label_binary_dice_median,label_binary_dice_std,label_tre_mean,label_tre_median,label_tre_std
+-1,7.962050308792227e-05,3.6021005143993534e-05,0.00017159658695329664,,,,,,
